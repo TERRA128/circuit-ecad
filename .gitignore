@@ -1,0 +1,17 @@
+## --- Altium Designer Specific ---
+
+# 백업 및 히스토리 폴더
+History/
+__Previews/
+
+# 로그 및 레포트 폴더
+ProjectLogs*/
+Project\ Logs\ for\ */
+
+# 컴파일 및 출력 파일 (필요 시 주석 해제)
+# Output/
+# Project\ Outputs\ for\ */
+
+## --- OS Specific ---
+.DS_Store
+Thumbs.db
